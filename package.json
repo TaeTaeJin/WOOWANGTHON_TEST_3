@@ -1,0 +1,6 @@
+{
+  "name": "wanggane-chaos",
+  "private": true,
+  "engines": { "node": "22" },
+  "scripts": { "start": "node server.js" }
+}
